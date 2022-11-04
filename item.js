@@ -28,8 +28,37 @@ let items = [
 let item = items[itemNo]
 
 let onLoadFunc = (no) => {
-    // document.querySelector(".3").style.background = `linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.3) 75%, #000 100%), url("assets/img/${items[no].imgT}");`
+    // change background image
     console.log(document.querySelector(".masthead").style.color)
-    document.getElementById('masthead').style.backgroundImage="url(assets/img/"+item.imgT+")";
-}
+    document.getElementById('masthead').style.backgroundImage="url(assets/img/"+item.imgT+")"
 
+    // slide show
+    let imgTag = '', btnTag = ''
+    
+    item.imgs.forEach(function (v,i,a) {
+        if (!i) {
+            imgTag += '<div class="carousel-item active"><img src="assets/img/' + v + '" class="d-block w-100"></div>'
+            btnTag += '<button type="button" data-bs-target="#slides" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>'
+        } else {
+            imgTag += '<div class="carousel-item"><img src="assets/img/' + v + '" class="d-block w-100"></div>'
+            btnTag += '<button type="button" data-bs-target="#slides" data-bs-slide-to="' + i + '" aria-label="Slide ' + (i+1) + '"></button>'
+        }
+    })
+
+    let hd = `<div id="slides" class="carousel slide" data-bs-ride="carousel"><div class="carousel-indicators">${btnTag}</div><div class="carousel-inner">
+    
+    `
+    let tl = `</div> <!------ slide button -------->
+<button class="carousel-control-prev" type="button" data-bs-target="#slides" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#slides" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+  </div>`
+
+    document.getElementById('slideShow').innerHTML = hd + imgTag + tl
+
+}
