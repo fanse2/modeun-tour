@@ -4,7 +4,7 @@ const itemNo = urlParams.get('no')
 
 let items = [
     {
-        title:'파나마운하 크푸즈 15일',
+        title:'파나마운하 크루즈 15일',
         desc:'남미 크루즈 여행의 하이라이트 ! 파나마 운하 크루즈 !',
         imgT:'pc15/pc15-0.jpg',
         imgs: ['pc15/pc15-0.jpg','pc15/pc15-1.jpg','pc15/pc15-2.jpg','pc15/pc15-3.jpg','pc15/pc15-4.jpg',],
@@ -16,7 +16,7 @@ let items = [
 럭셔리 크루즈 투어의 결정판`
     },
     {
-        title:'이스턴 캐리비안 9일 크루즈',
+        title:'이스턴 캐리비안 크루즈 9일 ',
         desc:'초호화 초대형 뉴 크루즈로 떠나는 이스턴 캐리비안 !',
         imgT:'ec9/ec9-0.jpg',
         imgs: ['ec9/ec9-0.jpg','ec9/ec9-1.jpg','ec9/ec9-2.jpg','ec9/ec9-3.jpg','ec9/ec9-4.jpg',],
