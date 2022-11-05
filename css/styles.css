@@ -11626,6 +11626,10 @@ body {
   }
 }
 
+.section-title {
+  text-decoration: solid underline var(--bs-blue) 4px;
+}
+
 .about-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom,#000 0%, rgba(var(--bs-blue-rgb)) 10%, rgba(var(--bs-blue-rgb)) 100%);
