@@ -11631,6 +11631,7 @@ body {
   background: linear-gradient(to bottom,#000 0%, rgba(var(--bs-blue-rgb)) 10%, rgba(var(--bs-blue-rgb)) 100%);
   /* background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%); */
   /* background: rgba(var(--bs-blue-rgb)); */
+  font-size: 20px;
 }
 .about-section p {
   margin-bottom: 5rem;
