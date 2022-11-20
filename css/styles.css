@@ -11627,7 +11627,8 @@ body {
 }
 
 .section-title {
-  text-decoration: solid underline var(--bs-blue) 4px;
+  /* text-decoration: solid underline var(--bs-blue) 4px; */
+  border-bottom: solid var(--bs-blue) 6px;
 }
 
 .about-section {

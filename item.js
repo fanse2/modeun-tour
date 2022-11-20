@@ -324,6 +324,224 @@ let items = [
         ▶ 신과 인간이 만든 환상적인 경관 카파도키아
         ※Covid 양성결과로 현지 잔류가 필요할 경우 모든 비용은 여행자 본인의 부담으로 합니다.`
     },
+    {
+        title:`앤텔롭캐년 & 홀스슈밴드 당일여행`,
+        desc:``,
+        imgT:'n-h/n-h1.jpg',
+        period:'당일코스',
+        course:'라스베가스 - 글랜 캐년 - 앤텔롭캐년 - 홀스슈밴드 - 라스베가스',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d1636234.3881970004!2d-114.1207153012286!3d36.77607777970447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!4m5!1s0x8736693644285e99%3A0x5691b154f72a3d20!2z6riA66CMIOy6kOuFhCDqta3rpr3tnLTslpHsp4A!3m2!1d37.3867256!2d-110.84242569999999!4m5!1s0x873411f49ba00e0b%3A0x98361608ad6aa79b!2z7JWg66as7KGw64KYIOyjvCDslaTthLDroZztlIQg7LqQ64WE!3m2!1d36.8619103!2d-111.37433019999999!4m5!1s0x87346c8d22566b09%3A0x45637089634f1702!2z7JWg66as7KGw64KYIOyjvCDtjpjsnbTsp4AgUGFnZSBQYXJrd2F5LCDtmYDsiqTsiogg67Kk65Oc!3m2!1d36.8791598!2d-111.5104235!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!5e0!3m2!1sko!2sus!4v1656598380616!5m2!1sko!2sus`,
+        imgs: ['n-h/n-h1.jpg','n-h/n-h2.jpg','n-h/n-h3.jpg','n-h/n-h4.jpg','n-h/n-h5.jpg','n-h/n-h6.jpg',],
+        descL:`► 각 호텔 픽업 또는 미팅장소에서 가이드 미팅 후 출발 
+
+        ► 차창관광 : 글랜캐년, 글랜캐년 댐 다리 
+        - 콜로라도 강을 막아 만든 후버 댐의 엄청난 위용
+        - 파웰호수의 신비한 전경
+        ► 관람 : 사진작가들이 뽑은 최고의 촬영지 앤텔롭캐년 투어 (입장료 $70)
+        - 화려한 물결무늬가 펼쳐있는 좁은 협곡사이로 위에서 내려오는 햇빛에 따라 변하는 협곡의 모습이 마치 한편의 빛의 마술쇼를 보는 것 같은 곳이다.
+        ※ 기후 및 점검으로 인한 현지사정에 따라 앤텔로프 캐년 진행이 어려울수 있습니다.
+
+        ► 관람 : 거대한 말발굽 모양의 홀스슈밴드 투어 
+        - 그랜드캐년의 동쪽끝에 위치한 콜로로라도 강이 만들어낸 U자형 협곡으로 300M 높이의 절벽때문에 아찔한 인생샷 장소로도 유명한 곳이다.
+
+        `
+    },
+    {
+        title:`그랜드캐년 사우스림 당일여행`,
+        desc:``,
+        imgT:'gs/gs0.jpg',
+        period:'당일코스',
+        course:'라스베가스-그랜드 캐년-사우스 림',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d829809.228663274!2d-114.1822835751323!3d35.66610981836405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!4m5!1s0x8733109286174101%3A0x61dff31bf2f3a74!2zTWF0aGVyIFBvaW50LCDqt7jrnpzrk5zsupDrhYQg67mM66as7KeAIOyVoOumrOyhsOuCmCDso7w!3m2!1d36.061649599999996!2d-112.1079463!4m5!1s0x873310ea9151d8c9%3A0x634ea3d9cce9d7dc!2z7JW867CU7YyM7J20IO2PrOyduO2KuCA4NjAyMyBBcml6b25hLCBHcmFuZCBDYW55b24gVmlsbGFnZQ!3m2!1d36.063488899999996!2d-112.1183901!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!5e0!3m2!1sko!2sus!4v1656598526905!5m2!1sko!2sus`,
+        imgs: ['gs/gs0.jpg','gs/gs1.jpg','gs/gs2.jpg','gs/gs3.jpg','gs/gs4.jpg','gs/gs5.jpg','gs/gs6.jpg',],
+        descL:`► 가이드 미팅 후 그랜드캐년으로 출발 
+
+        ► 관람 : 매더포인트 (Mather Point) 
+        - 그래드 캐년은 사막 건조지역에 있어서 해가 뜰 때나 질 때의 경관이 협곡과 산맥 등과 잘 어우러져 매더포인트에서는 아름다운 자연을 볼 수 있는 곳으로 손꼽히는 곳입니다 
+        ► 관람 : 야바파이 포인트 (Yavapai Point) 
+        - 1540년 스페인의 장군인 가르시아가 처음 방문한 장소로 이곳에서 그랜드캐년의 전체를 돌아보며 " Oh, Grande"라고 환호성을 질렀다고 합니다. 거대하다 라는 뜻의 그랜드캐년이 얼마나 웅대한지 이곳에서 확인할 수 있습니다.
+        ※ 선택관광 : 그랜드캐년 I-MAX $15/1인 
+
+※ 선택관광 : 그랜드캐년 경비행기
+
+※ 시간상 경비행기와 IMAX 영화 선택관광 중 한가지만 진행될 수 있습니다. 
+※ 그랜드캐년 경비행기는 그랜드캐년 빌리지 내의 경비행기장에서 진행하지만, 현지 기상상태에 따라서 볼더시티(BOULDER CITY) 경비행기장에서 출발하는 경비행기 투어로도 진행될 수 있습니다. 
+        `
+    },
+    {
+        title:`그랜드캐년 웨스트림 당일여행`,
+        desc:``,
+        imgT:'gw/gw4.jpg',
+        period:'당일코스',
+        course:'라스베가스-레이크 미드-와울라파이 랜치-구아노 포인트-이글 포인트',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d833762.9459526775!2d-114.18627410643688!3d35.28394790068586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!4m5!1s0x80cc0654bd27e08d%3A0xb1c2554442d42e8d!2z7JWg66as7KGw64KYIOyjvCDqt7jrnpzrk5zsupDrhYQ!3m2!1d36.0997631!2d-112.1124846!4m5!1s0x873317355fe70849%3A0x436aee11a52aa90d!2z7Juo7Iqk7Yq4IOumvCDrk5zrnbzsnbTruIwgODYwMjMgQXJpem9uYSwgR3JhbmQgQ2FueW9uIFZpbGxhZ2U!3m2!1d36.0600041!2d-112.18195709999999!4m5!1s0x80d24f5b44bc51af%3A0x1848690db8cd187!2z7JWg66as7KGw64KYIOyjvCDsnbTquIAg7Y-s7J247Yq4!3m2!1d34.3941842!2d-113.6510445!4m5!1s0x80cc0d891530167b%3A0x79e7d85a98b19f00!2z7JWg66as7KGw64KYIOyjvCDtlLzsuZgg7Iqk7ZSE66eB7IqkIOq1rOyVhOuFuO2PrOyduO2KuA!3m2!1d36.0305986!2d-113.8268093!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!5e0!3m2!1sko!2sus!4v1656598788006!5m2!1sko!2sus`,
+        imgs: ['gw/gw0.jpg','gw/gw1.jpg','gw/gw2.jpg','gw/gw3.jpg','gw/gw4.jpg','gw/gw5.jpg','gw/gw6.jpg',],
+        descL:`► 각 호텔 픽업 또는 집결지에서 가이드 미팅 
+
+        ► 그랜드 캐년 웨스트 림 으로 출발 
+        
+        ► 관광
+        - 후알라 파이 랜치: - 서부시대 목장과 마을을 재현한 곳으로 다양한 옛 서부의 모습을 체험할 수 있습니다. 
+
+        - 이글포인트 : - 절경을 보이는 그랜드 캐년 일부분 중에서 독수리를 닮았다고 하여 만들어진 이글 포인트, 그 외에도 스카이 워크를 밖에서 보실 수 있습니다. 
+        ※ 선택관광 : 스카이워크, 헬기투어
+
+        `
+    },
+    {
+        title:`데스밸리 당일여행`,
+        desc:``,
+        imgT:'dth/dth0.jpg',
+        period:'당일코스',
+        course:'단테스 뷰 포인트 - 자브리스키 포인트 - 배드워터',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d411014.7722845687!2d-116.31561354909381!3d36.40791519247765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!4m5!1s0x80c739a21e8fffb1%3A0x1c897383d723dd25!2z7LqY66as7Y-s64uI7JWEIOuNsOyKpCDrsLjrpqw!3m2!1d36.5322649!2d-116.9325408!4m5!1s0x80c71e6785b1e70d%3A0xfc97aa56dcf3b944!2z7LqY66as7Y-s64uI7JWEIOuMhO2KuCDrt7Ag66Gc65OcIOuLqO2FjOyKpCDrt7A!3m2!1d36.220578599999996!2d-116.7265978!4m5!1s0x80c73e11d6f20157%3A0x51d545c842a919a0!2z7J6Q67iM66as7Iqk7YKkIO2PrOyduO2KuCBDYWxpZm9ybmlhLCBDQS0xOTA!3m2!1d36.4200667!2d-116.8122303!4m5!1s0x80c71f11e13eeafd%3A0xfb29ec2555008b15!2z7LqY66as7Y-s64uI7JWEIOuwsOuTnOybjO2EsA!3m2!1d36.22972!2d-116.76611!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!5e0!3m2!1sko!2sus!4v1656600411993!5m2!1sko!2sus`,
+        imgs: ['dth/dth0.jpg','dth/dth1.jpg','dth/dth2.jpg','dth/dth3.jpg','dth/dth4.jpg','dth/dth5.jpg','dth/dth6.jpg',],
+        descL:`► 각 호텔 픽업 또는 집결지에서 가이드 미팅 
+
+        ► 데스밸리로 출발
+        
+        ► 관광
+        - 단테스 뷰 포인트 : 대형 차량은 못 올라가는 산꼭대기 해발 11049피트(3368m)에 위치한 전망대로 데쓰밸리의 배드랜드와 골프장을 한눈에 볼수있는 데쓰밸리 No.1 랜드마크입니다.
+        ※동절기에는 폭설로 못 올라갈수 있습니다.
+        - 자브리스키 포인트 : 이곳에서 붕사를 캐던 태평양 붕사(Pacific Coast Borax)라는 회사의 임원이였던 Christian Brevoort Zabriskie의 이름에서 유래가 되었습니다. 노랑색의 벌거벗은 산은 인위적으로 만들어진 장소같이 느껴지며 세계의 많은 사진작가 및 유럽 관광객들이 꼭 찿는 명소입니다.
+
+        - 배드워터 : 미대륙에서 가장 낮은 곳이며 (해수면 보다 86미터정도 더 낮다. 그리고 미국 본토에서 4420m로 가장 높은 산인 휘트니산를 볼수있습니다.
+
+        `
+    },
+    {
+        title:`불의계곡 당일투어`,
+        desc:``,
+        imgT:'fv/fv0.jpg',
+        period:'당일코스',
+        course:'불의계곡',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d205687.8531770537!2d-114.986130579514!3d36.33963482768985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!4m5!1s0x80c96b2bca0cabf5%3A0x4c5d735aaf7cb075!2z64Sk67CU64ukIOyYpOuyhO2KvCDrsLjrpqwg7Jik67iMIO2UvOultCDtlZjsnbTsm6jsnbQg67C466asIOyYpOu4jCDtjIzsnbTslrQg7KO866a96rO17JuQ!3m2!1d36.5073322!2d-114.5352405!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!5e0!3m2!1sko!2sus!4v1656598975021!5m2!1sko!2sus`,
+        imgs: ['fv/fv0.jpg','fv/fv1.jpg','fv/fv2.jpg','fv/fv3.jpg','fv/fv4.jpg','fv/fv5.jpg',],
+        descL:`► 각 호텔 픽업 또는 집결지에서 가이드 미팅 
+
+        ► 네바다 주 최초의 주립공원 불의계곡으로 출발 
+        
+        ► 관람 : Beehives 포인트
+        - 촘촘한 여러장의 겹으로 쌓여 있는 모습이 벌집을 닮았다 하여 붙여진 이름으로 곱디고운 모래가 떨어지는 전형적인 붉은 사암으로 되어 있습니다.
+        ► 관람 : Arch Rock 포인트
+        - Arch Rock은 불의 계곡 최고의 볼거리이자 랜드마크로 바위가 아치모양 형상으로 되어 있어서 붙여진 이름이며, 그 모양이 특이해 옛 인디언 원주민들에게 신성한 장소로 여겨졌습니다.
+
+        `
+    },
+    {
+        title:`4대캐년 1박2일`,
+        desc:``,
+        imgT:'4c/4c0.jpg',
+        period:'1박2일',
+        course:'4대 캐년 - 그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d1961552.9676804252!2d-115.23545620500599!3d36.15177754996744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x80c8c4337a8a65ab%3A0xc61a377eb8920dbd!2z64Sk67CU64ukIOudvOyKpOuyoOydtOqxsOyKpCDsgqzsmrDsiqQg65287Iqk67Kg7J206rGw7IqkIOuMgOuhnCDsp4Tsg50g7ZWc7Iud64u5!3m2!1d36.1050671!2d-115.171775!4m5!1s0x80caead08844f8d9%3A0x7c2e3a15aa3656f5!2z7Jyg7YOAIOyngOyYqCDqta3rpr3qs7Xsm5A!3m2!1d37.2982022!2d-113.02630049999999!4m5!1s0x87356ecb28c332b7%3A0x657ae9cf1175bacb!2z7Jyg7YOAIOu4jOudvOydtOyKpCDsupDrhYQ!3m2!1d37.6166499!2d-112.14241589999999!4m5!1s0x80cc0654bd27e08d%3A0xb1c2554442d42e8d!2z7JWg66as7KGw64KYIOyjvCDqt7jrnpzrk5zsupDrhYQ!3m2!1d36.0997631!2d-112.1124846!4m5!1s0x80c8c59f1f049c5d%3A0x471359241ec41e1e!2z64Sk67CU64ukIOudvOyKpOuyoOydtOqxsOyKpCDsm6jsnbgg64m07YS0IOuMgOuhnCDrp6TsupDrn7Ag6rWt7KCc6rO17ZWt!3m2!1d36.0839998!2d-115.1537389!5e0!3m2!1sko!2sus!4v1656597516306!5m2!1sko!2sus`,
+        imgs: ['4c/4c0.jpg','4c/4c1.jpg','4c/4c2.jpg','4c/4c3.jpg','4c/4c4.jpg','4c/4c5.jpg','4c/4c7.jpg',],
+        descL:`미서부 최고의 캐년인 그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년은 웅장함을 바탕으로 많은 관광객들이 미국 서부에 왔을 때 꼭 들러야 할 관광 코스로 손꼽히고 있습니다. 특히, 그랜드 캐년은 세계에서 가장 경관이 뛰어난 협곡으로 4억년이 넘는 시간이 만들어 낸 대협곡이 그야말로 장관을 선사 합니다..
+        `
+    },
+    {
+        title:`그랜드캐년 라스베가스 2박3일 - 화출발`,
+        desc:`세계적으로 꼭 봐야할 여행지 그랜드캐년과 화려한 라스베가스의 도심을 만나보세요!`,
+        imgT:'lvgs/lvgs0.jpg',
+        period:'2박3일 - LA 출발 - 화출발',
+        course:'라스베가스/ 그랜드 캐년',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d1674013.780378053!2d-116.29917529876833!3d34.9676812581012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x80c2b87dfede7e19%3A0x52fdff7b4aebd590!2z7LqY66as7Y-s64uI7JWEIOyKpO2DoO2EtCDruYTsuZgg64yA66GcIO2RuOuluO2IrOyWtCBMQQ!3m2!1d33.7837008!2d-117.9921935!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!4m5!1s0x80cc0654bd27e08d%3A0xb1c2554442d42e8d!2z7JWg66as7KGw64KYIOyjvCDqt7jrnpzrk5zsupDrhYQ!3m2!1d36.0997631!2d-112.1124846!4m5!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2z7LqY66as7Y-s64uI7JWEIOuhnOyKpOyVpOygpOugiOyKpA!3m2!1d34.0522342!2d-118.24368489999999!4m5!1s0x80c2b87dfede7e19%3A0x52fdff7b4aebd590!2s90680%20California%2C%20Stanton%2C%20Beach%20Blvd%2C%20PRT%20TOUR%20LA!3m2!1d33.7837008!2d-117.9921935!5e0!3m2!1sko!2sus!4v1656517236530!5m2!1sko!2sus`,
+        imgs: ['lvgs/lvgs0.jpg','lvgs/lvgs1.jpg','lvgs/lvgs2.jpg','lvgs/lvgs3.jpg','lvgs/lvgs4.jpg','lvgs/lvgs5.jpg',],
+        descL:`► 세계 최고의 엔터테이먼트 도시 라스베가스
+
+        네바다주 사막 한가운데에 위치한 최대의 관광의 도시입니다. 1936년 당시 세계 최대의 후버댐이 완성 되었고 각종 엔터테인먼트가 발달하여 일년 내내 관광객의 발길이 끊이지 않는 곳입니다.
+        
+         
+        
+        ► 신이 빚은 지상 최대의 조형물 그랜드 캐년
+        
+        미서부 최고의 캐년인 그랜드 캐년은 웅장함을 바탕으로 많은 관광객들이 미국 서부에 왔을 때 꼭 들러야 할 관광코스로 손꼽히고 있습니다. 세계에서 가장 경관이 뛰어난 협곡으로 4억년이 넘는 시간이 만들어낸 대협곡이 그야말로 장관을 선사합니다.
+        
+        `
+    },
+    {
+        title:`7대캐년+세도나 2박3일`,
+        desc:`미서부 꼭 가야할 7대 캐년`,
+        imgT:'7cs/7cs0.jpg',
+        period:'2박3일',
+        course:'그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년/ 모뉴먼트 밸리',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d1646199.3250601904!2d-113.75422108063277!3d36.30665485006253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0x80c8c4337a8a65ab%3A0xc61a377eb8920dbd!2z7KeE7IOdIO2VnOyLneuLuQ!3m2!1d36.1050671!2d-115.171775!4m5!1s0x80caead08844f8d9%3A0x7c2e3a15aa3656f5!2z7Jyg7YOAIOyngOyYqCDqta3rpr3qs7Xsm5A!3m2!1d37.2982022!2d-113.02630049999999!4m5!1s0x87356ecb28c332b7%3A0x657ae9cf1175bacb!2z7Jyg7YOAIOu4jOudvOydtOyKpCDsupDrhYQ!3m2!1d37.6166499!2d-112.14241589999999!4m5!1s0x87346ebdf86eaeef%3A0xf32a862e2f4d5452!2z7JWg66as7KGw64KYIOyjvCDquIDroIwg7LqQ64WE!3m2!1d36.864432099999995!2d-111.58793809999999!4m5!1s0x87373183ffa168fd%3A0xcd9f911704a64b6e!2z66qo64m066i87Yq4IOuwuOumrA!3m2!1d36.996901099999995!2d-110.09861869999999!4m5!1s0x872da24e3e01d561%3A0xa173a780afe0d0d5!2zT2FrIENyZWVrIENhbnlvbiwg7JWg66as7KGw64KYIOyjvA!3m2!1d34.9125169!2d-111.7268235!4m5!1s0x872da132f942b00d%3A0x5548c523fa6c8efd!2z7JWg66as7KGw64KYIOyjvCDshLjrj4Trgpg!3m2!1d34.8697395!2d-111.7609896!4m5!1s0x80cc0654bd27e08d%3A0xb1c2554442d42e8d!2z7JWg66as7KGw64KYIOyjvCDqt7jrnpzrk5zsupDrhYQ!3m2!1d36.0997631!2d-112.1124846!4m5!1s0x80c8c59f1f049c5d%3A0x471359241ec41e1e!2z64Sk67CU64ukIOudvOyKpOuyoOydtOqxsOyKpCDsm6jsnbgg64m07YS0IOuMgOuhnCDrp6TsupDrn7Ag6rWt7KCc6rO17ZWt!3m2!1d36.0839998!2d-115.1537389!5e0!3m2!1sko!2sus!4v1656598193598!5m2!1sko!2sus`,
+        imgs: ['7cs/7cs0.jpg','7cs/7cs1.jpg','7cs/7cs2.jpg','7cs/7cs3.jpg','7cs/7cs4.jpg','7cs/7cs5.jpg','7cs/7cs6.jpg',],
+        descL:`► 4대 캐년 - 그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년
+
+        미서부 최고의 캐년인 그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년은 웅장함을 바탕으로 많은 관광객들이 미국 서부에 왔을 때 꼭 들러야 할 관광 코스로 손꼽히고 있습니다. 특히, 그랜드 캐년은 세계에서 가장 경관이 뛰어난 협곡으로 4억년이 넘는 시간이 만들어 낸 대협곡이 그야말로 장관을 선사 합니다.
+
+        ► 나바호 인디언의 성지 모뉴먼트 밸리
+
+모뉴먼트 밸리는 붉은 사암, 가늘고 뾰족한 봉우리, 거대한 바위 언턱을 특징으로 하는 사막 풍경을 자랑합니다. 애리조나주 피닉스 북쪽으로 약 508km 까지 뻗어 애리조나 주와 유타주의 경계를 가로 지르고 있으며 나바호 부족의 거주지인 나바호국(Navajo Nation)에 속해 있습니다.
+
+
+        
+        `
+    },
+    {
+        title:`7대캐년+세도나 3박4일`,
+        desc:`미서부 꼭 가야할 7대 캐년`,
+        imgT:'7cs/7cs1.jpg',
+        period:'2박3일',
+        course:'그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년/ 모뉴먼트 밸리',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d1646199.3250601904!2d-113.75422108063277!3d36.30665485006253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0x80c8c4337a8a65ab%3A0xc61a377eb8920dbd!2z7KeE7IOdIO2VnOyLneuLuQ!3m2!1d36.1050671!2d-115.171775!4m5!1s0x80caead08844f8d9%3A0x7c2e3a15aa3656f5!2z7Jyg7YOAIOyngOyYqCDqta3rpr3qs7Xsm5A!3m2!1d37.2982022!2d-113.02630049999999!4m5!1s0x87356ecb28c332b7%3A0x657ae9cf1175bacb!2z7Jyg7YOAIOu4jOudvOydtOyKpCDsupDrhYQ!3m2!1d37.6166499!2d-112.14241589999999!4m5!1s0x87346ebdf86eaeef%3A0xf32a862e2f4d5452!2z7JWg66as7KGw64KYIOyjvCDquIDroIwg7LqQ64WE!3m2!1d36.864432099999995!2d-111.58793809999999!4m5!1s0x87373183ffa168fd%3A0xcd9f911704a64b6e!2z66qo64m066i87Yq4IOuwuOumrA!3m2!1d36.996901099999995!2d-110.09861869999999!4m5!1s0x872da24e3e01d561%3A0xa173a780afe0d0d5!2zT2FrIENyZWVrIENhbnlvbiwg7JWg66as7KGw64KYIOyjvA!3m2!1d34.9125169!2d-111.7268235!4m5!1s0x872da132f942b00d%3A0x5548c523fa6c8efd!2z7JWg66as7KGw64KYIOyjvCDshLjrj4Trgpg!3m2!1d34.8697395!2d-111.7609896!4m5!1s0x80cc0654bd27e08d%3A0xb1c2554442d42e8d!2z7JWg66as7KGw64KYIOyjvCDqt7jrnpzrk5zsupDrhYQ!3m2!1d36.0997631!2d-112.1124846!4m5!1s0x80c8c59f1f049c5d%3A0x471359241ec41e1e!2z64Sk67CU64ukIOudvOyKpOuyoOydtOqxsOyKpCDsm6jsnbgg64m07YS0IOuMgOuhnCDrp6TsupDrn7Ag6rWt7KCc6rO17ZWt!3m2!1d36.0839998!2d-115.1537389!5e0!3m2!1sko!2sus!4v1656598193598!5m2!1sko!2sus`,
+        imgs: ['7cs/7cs0.jpg','7cs/7cs1.jpg','7cs/7cs2.jpg','7cs/7cs3.jpg','7cs/7cs4.jpg','7cs/7cs5.jpg','7cs/7cs6.jpg',],
+        descL:`► 4대 캐년 - 그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년
+
+        미서부 최고의 캐년인 그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년은 웅장함을 바탕으로 많은 관광객들이 미국 서부에 왔을 때 꼭 들러야 할 관광 코스로 손꼽히고 있습니다. 특히, 그랜드 캐년은 세계에서 가장 경관이 뛰어난 협곡으로 4억년이 넘는 시간이 만들어 낸 대협곡이 그야말로 장관을 선사 합니다.
+
+        ► 나바호 인디언의 성지 모뉴먼트 밸리
+
+모뉴먼트 밸리는 붉은 사암, 가늘고 뾰족한 봉우리, 거대한 바위 언턱을 특징으로 하는 사막 풍경을 자랑합니다. 애리조나주 피닉스 북쪽으로 약 508km 까지 뻗어 애리조나 주와 유타주의 경계를 가로 지르고 있으며 나바호 부족의 거주지인 나바호국(Navajo Nation)에 속해 있습니다.
+
+
+        
+        `
+    },
+    {
+        title:`4대캐년 3박4일`,
+        desc:`미서부 최고의 3대캐년(그랜드/브라이스/자이언)과 빛과 물살 만들어낸 예술작품과 앤텔로프 캐년까지`,
+        imgT:'3ca/3ca0.jpg',
+        period:'3박4일',
+        course:'그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔로프 캐년',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d3856380.6986982576!2d-122.89835890253838!3d37.46513245707138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!4m5!1s0x80caead08844f8d9%3A0x7c2e3a15aa3656f5!2z7Jyg7YOAIOyngOyYqCDqta3rpr3qs7Xsm5A!3m2!1d37.2982022!2d-113.02630049999999!4m5!1s0x87356ecb28c332b7%3A0x657ae9cf1175bacb!2z7Jyg7YOAIOu4jOudvOydtOyKpCDsupDrhYQ!3m2!1d37.6166499!2d-112.14241589999999!4m5!1s0x80cc0654bd27e08d%3A0xb1c2554442d42e8d!2z7JWg66as7KGw64KYIOyjvCDqt7jrnpzrk5zsupDrhYQ!3m2!1d36.0997631!2d-112.1124846!4m5!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2z7LqY66as7Y-s64uI7JWEIOuhnOyKpOyVpOygpOugiOyKpA!3m2!1d34.0522342!2d-118.24368489999999!5e0!3m2!1sko!2sus!4v1656600209379!5m2!1sko!2sus`,
+        imgs: ['3ca/3ca0.jpg','3ca/3ca1.jpg','3ca/3ca2.jpg','3ca/3ca3.jpg','3ca/3ca4.jpg','3ca/3ca5.jpg','3ca/3ca6.jpg',],
+        descL:`► 세계 최고의 엔터테이먼트 도시 라스베가스
+        - 네바다주 사막 한가운데에 위치한 최대의 관광의 도시입니다. 1936년 당시 세계 최대의 후버댐이 완성 되었고 각종 엔터테인먼트가 발달하여 일년 내내 관광객의 발길이 끊이지 않는 곳입니다.\
+        
+        ► 4대 캐년 - 그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔로프 캐년
+        - 미서부 최고의 캐년인 그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔로프 캐년은 웅장함을 바탕으로 많은 관광객들이 미국 서부에 왔을 때 꼭 들러야 할 관광 코스로 손꼽히고 있습니다. 특히, 그랜드 캐년은 세계에서 가장 경관이 뛰어난 협곡으로 4억년이 넘는 시간이 만들어 낸 대협곡이 그야말로 장관을 선사 합니다
+        
+        `
+    },
+    {
+        title:`7대캐년+세도나 5일`,
+        desc:`미서부 최고의 3대캐년(그랜드/브라이스/자이언)과 빛과 물살 만들어낸 예술작품과 앤텔로프 캐년까지`,
+        imgT:'7c5/7c50.jpg',
+        period:'4박5일',
+        course:'그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년/ 모뉴먼트 밸리',
+        price: '문의 바랍니다.',
+        map:`https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d3310145.0964580164!2d-116.40785288995316!3d35.88421063717789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2z64Sk67CU64ukIOudvOyKpOuyoOqwgOyKpA!3m2!1d36.171563!2d-115.13910089999999!4m5!1s0x80caead08844f8d9%3A0x7c2e3a15aa3656f5!2z7Jyg7YOAIOyngOyYqCDqta3rpr3qs7Xsm5A!3m2!1d37.2982022!2d-113.02630049999999!4m5!1s0x87356ecb28c332b7%3A0x657ae9cf1175bacb!2z7Jyg7YOAIOu4jOudvOydtOyKpCDsupDrhYQ!3m2!1d37.6166499!2d-112.14241589999999!4m5!1s0x87346ebdf86eaeef%3A0xf32a862e2f4d5452!2z7JWg66as7KGw64KYIOyjvCDquIDroIwg7LqQ64WE!3m2!1d36.864432099999995!2d-111.58793809999999!4m5!1s0x87373183ffa168fd%3A0xcd9f911704a64b6e!2z7JWg66as7KGw64KYIOyjvCDsmKzsnpDthqAt66qo64iE66mY7Yq4IOuwuOumrCBSb3V0ZSA0Miwg66qo64m066i87Yq4IOuwuOumrA!3m2!1d36.996901099999995!2d-110.09861869999999!4m5!1s0x872da24e3e01d561%3A0xa173a780afe0d0d5!2zT2FrIENyZWVrIENhbnlvbiwg7JWg66as7KGw64KYIOyjvA!3m2!1d34.9125169!2d-111.7268235!4m5!1s0x872da132f942b00d%3A0x5548c523fa6c8efd!2z7JWg66as7KGw64KYIOyjvCDshLjrj4Trgpg!3m2!1d34.8697395!2d-111.7609896!4m5!1s0x80cc0654bd27e08d%3A0xb1c2554442d42e8d!2z7JWg66as7KGw64KYIOyjvCDqt7jrnpzrk5zsupDrhYQ!3m2!1d36.0997631!2d-112.1124846!4m5!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2z7LqY66as7Y-s64uI7JWEIOuhnOyKpOyVpOygpOugiOyKpA!3m2!1d34.0522342!2d-118.24368489999999!5e0!3m2!1sko!2sus!4v1656597310612!5m2!1sko!2sus`,
+        imgs: ['7c5/7c50.jpg','7c5/7c51.jpg','7c5/7c52.jpg','7c5/7c53.jpg','7c5/7c54.jpg','7c5/7c55.jpg','7c5/7c56.jpg',],
+        descL:`► 4대 캐년 - 그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년
+
+        미서부 최고의 캐년인 그랜드 캐년/ 자이언 캐년/ 브라이스 캐년/ 앤텔롭 캐년은 웅장함을 바탕으로 많은 관광객들이 미국 서부에 왔을► 나바호 인디언의 성지 모뉴먼트 밸리
+
+        모뉴먼트 밸리는 붉은 사암, 가늘고 뾰족한 봉우리, 거대한 바위 언턱을 특징으로 하는 사막 풍경을 자랑합니다. 애리조나주 피닉스 북쪽으로 약 508km 까지 뻗어 애리조나 주와 유타주의 경계를 가로 지르고 있으며 나바호 부족의 거주지인 나바호국(Navajo Nation)에 속해 있습니다.
+
+        `
+    },
 ]
 
 let item = items[itemNo]
